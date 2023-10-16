@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prims06" alt="prims06" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_is_prims_" target="blank"><img src="https://img.shields.io/twitter/follow/_is_prims_?logo=twitter&style=for-the-badge" alt="_is_prims_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Is_Prims_" target="blank"><img src="https://img.shields.io/twitter/follow/_is_prims_?logo=twitter&style=for-the-badge" alt="Is_Prims_" /></a> </p>
 
 - 👯 I’m looking to collaborate on [Mano Crypto]([Private])
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/prims06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prims06" height="30" width="40" /></a>
-<a href="https://twitter.com/_is_prims_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_is_prims_" height="30" width="40" /></a>
+<a href="https://twitter.com/_is_prims_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Is_Prims_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/idriss kamdoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss kamdoum" height="30" width="40" /></a>
 </p>
 
