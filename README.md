@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on [Mano Crypto]([Private])
 
-- 👨‍💻 All of my projects are available at [[....]]([....])
+- 👨‍💻 All of my projects are available on <a href="https://freelance-idrisskamdoum.me" target="blank">My Personnal Portfolio</a>
 
-- 📝 I regularly write articles on [my Linkedln wall](my Linkedln wall)
+- 📝 I regularly write articles on <a href="https://linkedin.com/in/idriss_kamdoum" target="blank">my Linkedln wall</a>
 
 - 💬 Ask me about **Flutter,Node Js, Spring Boot, Angular And Wordpress**
 
 - 📫 How to reach me **primsidriss@gmail.com**
 
-- 📄 Know about my experiences [[Present on my portfolio]]([Present on my portfolio])
+- 📄 Know about my experiences on my <a href="https://freelance-idrisskamdoum.me" target="blank">My Resume</a>
 
 - ⚡ Fun fact **I think i'm real funny guy.**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/prims06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prims06" height="30" width="40" /></a>
 <a href="https://twitter.com/_is_prims_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Is_Prims_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/idriss kamdoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss kamdoum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idriss_kamdoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss kamdoum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
