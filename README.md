@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Is_Prims_" target="blank"><img src="https://img.shields.io/twitter/follow/_is_prims_?logo=twitter&style=for-the-badge" alt="Is_Prims_" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Mano Crypto]([Private])
+- 👯 I’m looking to collaborate on [BiTV.Live]([Private])
 
 - 👨‍💻 All of my projects are available on <a href="https://freelance-idrisskamdoum.me" target="blank">My Personnal Portfolio</a>
 
